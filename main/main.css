@@ -275,9 +275,9 @@ footer .to_top {position: fixed; bottom: 50px; right: 50px; font-size: 24px; z-i
         .section .visual_slider .slick-dots button {display: none;}
         .section .visual_slider .slick-dots li.slick-active {background-color: rgba(255, 255, 0, 0.5);}
 
-        .section .slider_arrows i {position: absolute; top: 42%; left: auto; font-size: 70px; color: #fff; z-index: 4;}
-        .section .slider_arrows i.right {margin-left: 0; transform: translate(-50%,0); left: auto; right: -30px;}
-        .section .slider_arrows i.left {margin-left: 0; transform: translate(-50%,0) rotate(-180deg); left: 50px;}
+        .section .slider_arrows i {position: absolute; top: 40%; left: auto; font-size: 80px; color: #c5bdd4; z-index: 4;}
+        .section .slider_arrows i.right {margin-left: 0; transform: translate(-50%,0); left: auto; right: -40px;}
+        .section .slider_arrows i.left {margin-left: 0; transform: translate(-50%,0) rotate(-180deg); left: 40px;}
 
 
 
